@@ -1,4 +1,4 @@
-# Speed_limit_alert_system_using_IOT
+# Vehicle_Speed_Detection_Using_IOT
 
 This project involves two-way communication and utilizes Arduino, NodeMCU, IR proximity sensors, and an alert device (buzzer) to accomplish its objectives. The process operates as follows:
 
